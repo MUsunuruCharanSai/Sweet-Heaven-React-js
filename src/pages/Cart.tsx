@@ -402,7 +402,7 @@ export function Cart() {
                 
                 <div className="text-center mb-6 sm:mb-8">
                   <QRCodeGenerator 
-                    upiId="7601017292@ybl" 
+                    upiId="7013785758@axl" 
                     amount={total}
                     merchantName="Sweet-Heaven"
                   />
